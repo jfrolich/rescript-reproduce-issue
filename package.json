@@ -8,6 +8,7 @@
   "author": "Bart Schuurmans <bart@minnozz.com>",
   "license": "MIT",
   "dependencies": {
-    "rescript": "^9.1.2"
+    "rescript": "^9.1.2",
+    "rescript-js": "^0.5.14"
   }
 }
