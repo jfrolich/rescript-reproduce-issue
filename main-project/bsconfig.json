@@ -6,6 +6,7 @@
     "subdirs": true
   },
   "bs-dependencies": [
+    "@rescript/react",
     "dependency-project"
   ],
   "pinned-dependencies": [
