@@ -1,13 +1,4 @@
 {
-  "name": "rescript-reproduce-issue",
-  "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Bart Schuurmans <bart@minnozz.com>",
-  "license": "MIT",
-  "dependencies": {
-    "rescript": "^9.1.2"
-  }
+  "workspaces": ["main-project", "dependency-project"]
 }

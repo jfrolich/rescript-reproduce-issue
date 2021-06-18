@@ -1,0 +1,11 @@
+{
+  "name": "dependency-project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@rescript/react": "^0.10.3"
+  },
+  "devDependencies": {
+    "rescript": "^9.1.4"
+  }
+}

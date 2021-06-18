@@ -1,0 +1,14 @@
+{
+  "name": "main-project",
+  "version": "0.1.0",
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "bs-dependencies": [
+    "dependency-project"
+  ],
+  "pinned-dependencies": [
+    "dependency-project"
+  ]
+}
