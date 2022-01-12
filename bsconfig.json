@@ -1,0 +1,10 @@
+{
+  "name": "monorepo",
+  "version": "0.1.0",
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "bs-dependencies": ["main-project", "dependency-project"],
+  "pinned-dependencies": ["main-project", "dependency-project"]
+}
